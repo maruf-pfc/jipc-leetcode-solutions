@@ -1,4 +1,4 @@
-# Solutions in Linked List
+# Linked List Leetcode Solutions
 
 ## File Index
 

@@ -1,4 +1,4 @@
-# Solutions in Recursion
+# Recursion Leetcode Solutions
 
 ## File Index
 

@@ -1,4 +1,4 @@
-# Solutions in STL
+# STL Leetcode Solutions
 
 ## File Index
 

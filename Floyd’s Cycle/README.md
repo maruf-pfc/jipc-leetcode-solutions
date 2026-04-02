@@ -1,4 +1,4 @@
-# Solutions in Floyd’s Cycle
+# Floyd’s Cycle Leetcode Solutions
 
 ## File Index
 

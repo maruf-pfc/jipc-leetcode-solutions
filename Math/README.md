@@ -1,4 +1,4 @@
-# Solutions in Math
+# Math Leetcode Solutions
 
 ## File Index
 

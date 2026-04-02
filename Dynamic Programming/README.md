@@ -1,4 +1,4 @@
-# Solutions in Dynamic Programming
+# Dynamic Programming Leetcode Solutions
 
 ## File Index
 

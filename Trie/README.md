@@ -1,4 +1,4 @@
-# Solutions in Trie
+# Trie Leetcode Solutions
 
 ## File Index
 

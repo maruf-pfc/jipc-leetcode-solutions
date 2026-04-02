@@ -1,4 +1,4 @@
-# Solutions in Binary Search
+# Binary Search Leetcode Solutions
 
 ## File Index
 

@@ -1,4 +1,4 @@
-# Solutions in Bit Manipulation
+# Bit Manipulation Leetcode Solutions
 
 ## File Index
 

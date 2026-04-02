@@ -1,4 +1,4 @@
-# Solutions in String
+# String Leetcode Solutions
 
 ## File Index
 

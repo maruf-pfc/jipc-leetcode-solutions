@@ -1,4 +1,4 @@
-# Solutions in Sort
+# Sort Leetcode Solutions
 
 ## File Index
 

@@ -1,4 +1,4 @@
-# Solutions in DSU-MST
+# DSU-MST Leetcode Solutions
 
 ## File Index
 

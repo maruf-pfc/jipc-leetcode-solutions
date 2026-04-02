@@ -27,7 +27,7 @@ while IFS= read -r -d '' dir; do
 
   readme_path="$dir/README.md"
   {
-    echo "# Solutions in ${rel}"
+    echo "# ${rel} Leetcode Solutions"
     echo
     if [[ ${#files[@]} -eq 0 ]]; then
       echo "*(No solution files in this directory)*"

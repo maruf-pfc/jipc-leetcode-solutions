@@ -1,4 +1,4 @@
-# Solutions in DFS-BFS
+# DFS-BFS Leetcode Solutions
 
 ## File Index
 

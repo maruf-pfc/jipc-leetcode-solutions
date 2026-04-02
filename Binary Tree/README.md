@@ -1,4 +1,4 @@
-# Solutions in Binary Tree
+# Binary Tree Leetcode Solutions
 
 ## File Index
 

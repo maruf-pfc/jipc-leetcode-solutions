@@ -1,4 +1,4 @@
-# Solutions in Manacher
+# Manacher Leetcode Solutions
 
 ## File Index
 

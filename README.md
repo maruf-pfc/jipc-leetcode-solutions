@@ -1,4 +1,4 @@
-# Solutions in /home/maruf/Documents/maruf-pfc/CPS Academy/jipc-leetcode-solutions
+# /home/maruf/Documents/maruf-pfc/CPS Academy/jipc-leetcode-solutions Leetcode Solutions
 
 ## File Index
 

@@ -1,4 +1,4 @@
-# Solutions in Arrays
+# Arrays Leetcode Solutions
 
 ## File Index
 
