@@ -52,6 +52,6 @@ int main() {
                      + repo + "/refs/heads/" 
                      + branch + file_path;
 
-        cout << raw << '\n';
+        cout << raw << '\n\n';
     }
 }
