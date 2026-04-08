@@ -1,1 +1,1 @@
-https://github.com/CPS-Academy/jipc-leetcode-solutions/blob/main/Linked%20List/143.%20Reorder%20List.cpp
+https://github.com/CPS-Academy/jipc-leetcode-solutions/blob/main/Two%20Pointer/1768.%20Merge%20Strings%20Alternately.cpp
