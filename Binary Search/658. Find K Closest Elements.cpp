@@ -7,10 +7,8 @@ public:
     vector<int> findClosestElements(vector<int> &arr, int k, int x)
     {
         int n = arr.size();
-        g
 
-            vector<int>
-                ans;
+        vector<int> ans;
         for (int i = pos; i < pos + k; i++)
             ans.push_back(arr[i]);
 
